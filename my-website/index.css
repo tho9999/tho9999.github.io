@@ -20,3 +20,35 @@
     color: #f1f1f1;
     box-shadow: greenyellow 0px 2px 0px;
 }
+
+.profile {
+    display: flex;
+    justify-content: center;
+}
+
+.profile-info {
+    display: flex;
+    align-items: center;
+    gap: 5%; 
+    padding: 5%; 
+}
+
+.profile-info img {
+    width: 30%; 
+    height: auto;
+    border-radius: 100%;
+}
+
+.profile-details h2 {
+    font-size: 150%;
+    color: #555;
+}
+
+.profile-details h1 {
+    font-size: 250%;
+    color: #333;
+}
+
+section {
+    padding: 5%; 
+}
