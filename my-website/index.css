@@ -69,3 +69,24 @@ p {
     color: #666;
 }
 
+.coding-languages-list{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 5%;
+    flex-wrap: wrap;
+}
+
+.coding-languages-list a{
+    text-decoration: none;
+}
+
+.coding img {
+    width: 100px;
+    height: auto;
+    box-shadow: 1px 1px 5px #d8d6d6;
+}
+
+.coding:hover {
+    box-shadow: 1px 1px 5px #333;
+}
