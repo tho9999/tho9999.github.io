@@ -90,3 +90,20 @@ p {
 .coding:hover {
     box-shadow: 1px 1px 5px #333;
 }
+
+.image-gallery {
+    display: flex;
+    justify-content: space-around;
+    gap: 5%;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.image-item {
+    text-align: center;
+}
+
+.image-item img {
+    max-width: 100%;
+    padding: 5px;
+}
