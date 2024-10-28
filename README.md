@@ -1,0 +1,1 @@
+Why I chose the License, is because the GNU General Public License allows others the freedom to look at my code and study it as well as modify and distribute it for themselves which will benefit software engineering.
