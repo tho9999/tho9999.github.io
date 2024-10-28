@@ -52,3 +52,19 @@
 section {
     padding: 5%; 
 }
+
+.info-paragraph {
+    box-shadow: 1px 1px 5px #d8d6d6;
+    padding: 5%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 200%;
+    color: #444;
+}
+
+p {
+    font-size: 120%;
+    color: #666;
+}
